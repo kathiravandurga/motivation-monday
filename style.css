@@ -1,0 +1,31 @@
+.row{
+    justify-content: center;
+    column-gap: 8px;
+    row-gap: 8px;
+    background-color: darkgray;
+    
+    padding: 10px 10px 10px 10px;
+}
+.logo{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.insta,.facebook,.twitter{
+    padding: 5px 5px;
+    background-color:white;
+    border-radius: 25px;
+    text-align: center;
+    margin: 5px;
+    
+}
+
+a{
+    text-decoration:
+}
+.col-3{
+    
+}
